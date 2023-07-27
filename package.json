@@ -39,7 +39,7 @@
     "ncp": "^2.0.0",
     "netlify-cms": "^2.9.5",
     "nuxt": "^2.14.11",
-    "nuxt-buefy": "^0.3.2",
+    "nuxt-buefy": "^0.4.25",
     "nuxt-fontawesome": "^0.4.0",
     "opti-image": "^0.10.0",
     "react": "^16.8.6",
